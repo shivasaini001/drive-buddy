@@ -320,24 +320,10 @@ button.btn.view-btn:hover {
 }
 .set-2{
     position: absolute;
-    top: 538%;
+    top: 67%;
     left: 10%;
 }
-.set-3{
-    position: absolute;
-    top: 538%;
-    left: 31%;
-}
-.set-4{
-     position: absolute;
-    top: 538%;
-    left: 52%;
-}
-.set-5{
-    position: absolute;
-    top: 538%;
-    left: 73%;
-}
+
 .border-1{
     border-radius: 10px;
 }
